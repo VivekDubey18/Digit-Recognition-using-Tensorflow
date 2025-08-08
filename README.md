@@ -6,7 +6,7 @@ The model is trained with **callbacks** for better optimization and overfitting 
 ---
 
 ## 📊 Dataset
-- MNIST Handwritten Digit Dataset](http://yann.lecun.com/exdb/mnist/
+- MNIST Handwritten Digit Dataset
 - **Size**: 60,000 training images, 10,000 test images
 - **Image Size**: 28×28 pixels, grayscale
 
