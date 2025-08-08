@@ -1,4 +1,4 @@
-readme_content = """# 🖥️Digit Recognition using Tensorflow
+## 🖥️Digit Recognition using Tensorflow
 
 This project implements a **Convolutional Neural Network (CNN)** in TensorFlow/Keras to classify handwritten digits (0–9) from the **MNIST dataset**.  
 The model is trained with **callbacks** for better optimization and overfitting prevention, and the results are visualized with accuracy plots.
