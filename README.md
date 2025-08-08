@@ -1,3 +1,7 @@
+readme_content = """# 🖥️Digit Recognition using Tensorflow
+
+This project implements a **Convolutional Neural Network (CNN)** in TensorFlow/Keras to classify handwritten digits (0–9) from the **MNIST dataset**.  
+The model is trained with **callbacks** for better optimization and overfitting prevention, and the results are visualized with accuracy plots.
 
 ---
 
@@ -24,7 +28,7 @@
 - **Optimizer**: Adam  
 - **Loss Function**: Categorical Crossentropy  
 - **Batch Size**: 32  
-- **Epochs**: 8 (with Early Stopping)  
+- **Epochs**: 8 (with Early Stopping to stop overfitting and save best model)  
 - **Validation Split**: 10%  
 
 ---
@@ -43,8 +47,3 @@
 **Final Test Accuracy:** ~98% ✅
 
 
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/mnist-cnn.git
-cd mnist-cnn
