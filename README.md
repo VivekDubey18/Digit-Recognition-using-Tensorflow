@@ -40,9 +40,10 @@ The model is trained with **callbacks** for better optimization and overfitting 
 ---
 
 ## 📈 Results
-![Accuracy Plot](result.png)
+
 
                                            Training vs Validation Accuracy
+![Accuracy Plot](result.png)
                                          
 
 
