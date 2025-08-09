@@ -47,6 +47,6 @@ The model is trained with **callbacks** for better optimization and overfitting 
                                          
 
 
-**Final Test Accuracy:** ~99.14% ✅
+**Final Test Accuracy:** ~99.16% ✅
 
 
