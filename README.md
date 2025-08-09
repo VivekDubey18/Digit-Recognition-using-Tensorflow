@@ -35,7 +35,7 @@ The model is trained with **callbacks** for better optimization and overfitting 
 
 ## 📌 Callbacks Used
 - **ModelCheckpoint** → Saves the best model based on validation accuracy.  
-- **EarlyStopping** → Stops training if validation loss doesn't improve for 3 consecutive epochs.  
+- **EarlyStopping** → Stops training if validation accuracy doesn't improve for 3 consecutive epochs.  
 
 ---
 
