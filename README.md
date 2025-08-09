@@ -43,10 +43,10 @@ The model is trained with **callbacks** for better optimization and overfitting 
 
 
                                            Training vs Validation Accuracy
-![Accuracy Plot](Result__Graph.png)
+![Accuracy Plot](Result_Graph.png)
                                          
 
 
-**Final Test Accuracy:** ~99.18% ✅
+**Final Test Accuracy:** ~99.1% ✅
 
 
