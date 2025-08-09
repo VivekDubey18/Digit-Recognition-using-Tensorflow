@@ -43,7 +43,7 @@ The model is trained with **callbacks** for better optimization and overfitting 
 
 
                                            Training vs Validation Accuracy
-![Accuracy Plot](Result_Graph.png)
+![Accuracy Plot](Result__Graph.png)
                                          
 
 
